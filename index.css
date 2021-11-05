@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Lalezar&display=swap");
+
+.container {
+  width: 80%;
+}
+
+.main-title {
+  font-size: 90px;
+  font-weight: bold;
+  font-family: "Lalezar";
+}
+
+.main-title span:first-child {
+  color: #ff3b3b;
+}
+
+.main-title span:last-child {
+  color: #0460bc;
+}
